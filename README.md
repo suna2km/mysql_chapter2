@@ -1,10 +1,10 @@
-# Math Tutor V1
+# MySQL Dynamic Webpage
 
 <b>Table of Content</b>
 - [Summary](#summary)
-- [Maintainers](#maintainers)
+- [Author](#author)
 - [New Concepts Used](#new-concepts-used)
-- [Console Output Example](#console-output-example)
+- [Console Output Example](#console-output-testing-example)
 
 ## Summary
 This is a Silly Simple Math Tutor for young children. 
@@ -16,10 +16,8 @@ This is a Silly Simple Math Tutor for young children.
 - Says goodbye to the user 
 
 
-## Maintainers
-[@dejohns2](https://github.com/dejohns2) Debbie Johnson  
-[@princess](https://github.com/dejohns2) Princess Debbie
-
+## Author
+[@suna2km](https://github.com/suna2km) Suna Aregay 
 
 ## New Concepts Used
 - proper documentation
@@ -62,4 +60,4 @@ End of program.
 
 ```
 
-[Back to Top](#math-tutor-v1)
+[Back to Top](#mysql-dynamic-webpage)
