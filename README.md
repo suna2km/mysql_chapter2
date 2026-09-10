@@ -28,11 +28,11 @@ This is a MySQL Dynamic Webpage that:
 
 
 ## Console Output Testing Example
-### Invoices
-![Invoice v2](assets/invoice_v2.png)
+### Invoices Before and After
+![Invoice v2](assets/invoices_bef&af.png)
 
-### Vendor Invoices
-![Vendor Invoice v2](assets/vendor_invoices_v2.png)
+### Vendor Invoices Before and After
+![Vendor Invoice v2](assets/vendor_invoices_bef&af.png)
 
 
 
