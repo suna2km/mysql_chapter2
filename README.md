@@ -28,9 +28,9 @@ This is a Silly Simple Math Tutor for young children.
 
 
 ## Console Output Testing Example
-```
-![iNVOICE_V2](assets/invoice_v2.png)
 
-```
+![Invoice v2](assets/invoice_v2.png)
+
+
 
 [Back to Top](#mysql-dynamic-webpage)
