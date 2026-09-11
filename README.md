@@ -10,9 +10,6 @@
 This assignment focused on a dynamic webpage connected to a MySQL database. The webpage retrieves invoice information from the database and displays invoices that meet a specific total amount. For the updated version, I made minor changes to the original, including changing the invoice filter from totals over $500 to totals over $1,000, adding Vendor ID and Invoice Date columns and making them bold.
 
 
-## Author
-[@suna2km](https://github.com/suna2km) Suna Aregay 
-
 ## New Concepts Used
 - MySQL database queries: Retrieved invoice records directly from a database
 - PHP and MySQL integration: Used PHP to connect the webpage to the database and work with database results.
@@ -27,7 +24,8 @@ This assignment focused on a dynamic webpage connected to a MySQL database. The 
 ### Vendor Invoices Before and After
 ![Vendor Invoice v2](assets/vendor_invoices_bef&af.png)
 
-
+## Author
+[@suna2km](https://github.com/suna2km) Suna Aregay 
 
 
 [Back to Top](#mysql-dynamic-webpage)
